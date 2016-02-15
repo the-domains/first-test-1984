@@ -1,0 +1,28 @@
+name: First Test 1984
+favicon: null
+layout_spectrum: 0.2953596175648272
+typography_spectrum: 0.9323604528326541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.05620632041245699
+  lightness: 0.16822474729269743
+  saturation: 0.769830966135487
+  rhythmicContrast: 0.989087012829259
+purpose: []
